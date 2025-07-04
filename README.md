@@ -10,11 +10,16 @@ Ogni livello di sicurezza (Low, Medium, High) è documentato singolarmente nei f
 
 ## 📁 Struttura
 
-DVWA-SQLi-Reports/  
-├── reports/  
-│   ├── sqli-low.md  
-│   ├── sqli-medium.md  
-│   └── sqli-high.md  
+DVWA-SQLi-Reports/
+├── reports/
+│   ├── sqli-blind/
+│   │   ├── sqli-blind-low.md
+│   │   ├── sqli-blind-medium.md
+│   │   └── sqli-blind-high.md
+│   └── sqli/
+│       ├── sqli-low.md
+│       ├── sqli-medium.md
+│       └── sqli-high.md
 └── README.md
 
 ---
