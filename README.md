@@ -10,7 +10,6 @@ Ogni livello di sicurezza (Low, Medium, High) è documentato singolarmente nei f
 
 ## 📁 Struttura
 
-```plaintext
 DVWA-SQLi-Reports/
 ├── reports/
 │   ├── sqli-blind/
