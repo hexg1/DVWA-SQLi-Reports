@@ -103,7 +103,14 @@ L'attacco ha richiesto pazienza, ma non strumenti automatici, solo metodo e logi
 - Monitorare e loggare le attività sospette
 
 ---
-
+> ⚠️ **Disclaimer Legale**
+> 
+> Tutte le attività documentate in questa repository sono state svolte esclusivamente in ambienti controllati, progettati per essere vulnerabili (es. DVWA, TryHackMe, laboratori locali).  
+> Nessuna di queste tecniche è stata applicata contro sistemi reali, pubblici o privati, senza autorizzazione esplicita.
+> 
+> Questa repository ha finalità puramente didattiche ed educative.  
+> L’autore **non si assume alcuna responsabilità** per l’uso improprio delle informazioni qui contenute.
+---
 ---
 
 ## SQL Injection – Blind (Medium) – English
@@ -204,6 +211,18 @@ Patience and logic were enough — no automated tools were required.
 - Properly validate and sanitize input  
 - Restrict DB user privileges  
 - Log and monitor suspicious activities
+---
+> ⚠️ **Legal Disclaimer**
+> 
+> All activities documented in this repository were performed **exclusively in controlled environments** specifically designed to be vulnerable (e.g., DVWA, TryHackMe, local labs).
+> 
+> None of the techniques shown here were executed against real, public, or private systems without explicit authorization.
+> 
+> This repository is intended **solely for educational and training purposes**.
+> 
+> The author **assumes no responsibility** for any misuse of the information provided herein.
+---
+---
 
 ---
 
