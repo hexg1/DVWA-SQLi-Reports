@@ -114,6 +114,15 @@ Questo tipo di attacco permette, con pazienza, di ricostruire interi contenuti d
 - Monitorare le richieste sospette nel traffico
 
 ---
+> ⚠️ **Disclaimer Legale**
+> 
+> Tutte le attività documentate in questa repository sono state svolte esclusivamente in ambienti controllati, progettati per essere vulnerabili (es. DVWA, TryHackMe, laboratori locali).  
+> Nessuna di queste tecniche è stata applicata contro sistemi reali, pubblici o privati, senza autorizzazione esplicita.
+> 
+> Questa repository ha finalità puramente didattiche ed educative.  
+> L’autore **non si assume alcuna responsabilità** per l’uso improprio delle informazioni qui contenute.
+---
+---
 
 ## English Version – SQL Injection (Boolean-Based Blind)
 
@@ -220,6 +229,17 @@ Even with no data printed on the page, conditional responses enable full databas
 - Restrict database user privileges
 - Avoid distinct messages that reveal internal logic
 - Log and monitor suspicious request patterns
-
+---
+> ⚠️ **Legal Disclaimer**
+> 
+> All activities documented in this repository were performed **exclusively in controlled environments** specifically designed to be vulnerable (e.g., DVWA, TryHackMe, local labs).
+> 
+> None of the techniques shown here were executed against real, public, or private systems without explicit authorization.
+> 
+> This repository is intended **solely for educational and training purposes**.
+> 
+> The author **assumes no responsibility** for any misuse of the information provided herein.
+---
+---
 ---
 
