@@ -105,6 +105,14 @@ Per prevenire la vulnerabilità SQL Injection, è fondamentale adottare le segue
 - Monitorare e loggare le richieste sospette
 
 ---
+> ⚠️ **Disclaimer Legale**
+> 
+> Tutte le attività documentate in questa repository sono state svolte esclusivamente in ambienti controllati, progettati per essere vulnerabili (es. DVWA, TryHackMe, laboratori locali).  
+> Nessuna di queste tecniche è stata applicata contro sistemi reali, pubblici o privati, senza autorizzazione esplicita.
+> 
+> Questa repository ha finalità puramente didattiche ed educative.  
+> L’autore **non si assume alcuna responsabilità** per l’uso improprio delle informazioni qui contenute.
+---
 ---
 
 ## SQL Injection – Low Level (English)
@@ -211,3 +219,15 @@ To prevent SQL Injection vulnerabilities, it is essential to adopt the following
 - Limit database user privileges in the application  
 - Monitor and log suspicious requests
 
+---
+---
+> ⚠️ **Legal Disclaimer**
+> 
+> All activities documented in this repository were performed **exclusively in controlled environments** specifically designed to be vulnerable (e.g., DVWA, TryHackMe, local labs).
+> 
+> None of the techniques shown here were executed against real, public, or private systems without explicit authorization.
+> 
+> This repository is intended **solely for educational and training purposes**.
+> 
+> The author **assumes no responsibility** for any misuse of the information provided herein.
+---
